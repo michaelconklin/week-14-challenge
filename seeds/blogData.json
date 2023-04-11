@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Why MVC is so important",
+    "description": "MVC allows developers to maintain a true seperation of concerns, devising their code bewteen the Model later for data,m the View layer for design, and the Controller layer for the application logic."
+  },
+  {
+    "name": "Authentication vs. Authorization",
+    "description": "There is a difference between..."
+  },
+  {
+    "name": "Object-Relationa; Mapping",
+    "description": "I have loved learning about ORMS..."
+  }
+]
